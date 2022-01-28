@@ -21,7 +21,6 @@ import javax.servlet.http.HttpServletResponse;
 import org.json.simple.JSONArray;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-
 import com.dto.Airport;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
